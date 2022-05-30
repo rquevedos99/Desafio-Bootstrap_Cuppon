@@ -1,0 +1,58 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-brand img{
+	width: 90px;
+}
+
+.card {
+width: auto;
+display: flex;
+justify-content: space-between;
+margin: 60px;
+}
+
+.iconos {
+    font-size: 12px;
+	color: #9f9a9a;
+	font-weight: 80;
+    font-style:italic;
+}
+
+.text-secondary{
+	font-weight: 80;
+	color: #707070;
+	margin: 0;
+}
+
+.text-success{
+	font-size: 25px;
+	font-weight: 62px;
+}
+
+.card-body-precios{
+    text-align:right;
+}
+
+.container-1{
+    margin-top: 60px;
+}
+
+.form-group-px-3{
+    margin: 20px;
+}
+
+footer{
+	text-align: center;
+}
+footer img{
+	width: 90px;
+	padding-top: 30px;
+}
+
+footer p{
+	color:#777373;
+	font-weight:100;
+}
+
